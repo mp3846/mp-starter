@@ -1,0 +1,21 @@
+{
+	"name": "mp-starter",
+	"version": "1.0.0",
+	"description": "CLI tool to start a nextjs template",
+	"type": "module",
+	"main": "next-starter.js",
+	"bin": {
+		"next-starter": "next-starter.js"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"cli",
+		"tool",
+		"next.js"
+	],
+	"author": "MP",
+	"license": "MIT",
+	"packageManager": "yarn@1.22.22+sha1.ac34549e6aa8e7ead463a7407e1c7390f61a6610"
+}
